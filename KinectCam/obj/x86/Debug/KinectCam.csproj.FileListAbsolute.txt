@@ -1,0 +1,129 @@
+C:\Users\Rob\Desktop\KinectCam\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\KinectCam\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\KinectCam\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 01 Demos\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.CV.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.Util.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\ZedGraph.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.CV.xml
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.Util.xml
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam_Content.g.cs
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\opencv_core231.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\opencv_highgui231.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\bin\Debug\opencv_imgproc231.dll
+C:\Users\Junyang\Documents\Visual Studio 2010\Projects\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.csprojResolveAssemblyReference.cache
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.csprojResolveAssemblyReference.cache
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam_Content.g.cs
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\opencv_core231.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\opencv_highgui231.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\opencv_imgproc231.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\ZedGraph.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.CV.xml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\01 Simple Kinect Camera\KinectCam\bin\Debug\Emgu.Util.xml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\opencv_core231.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\opencv_highgui231.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\opencv_imgproc231.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\ZedGraph.dll
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\Emgu.CV.xml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\bin\Debug\Emgu.Util.xml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csprojResolveAssemblyReference.cache
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam_Content.g.cs
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\uiowa-J\Downloads\01 Simple Kinect Camera\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\opencv_core231.dll
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\opencv_highgui231.dll
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\opencv_imgproc231.dll
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\ZedGraph.dll
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\Emgu.CV.xml
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\bin\Debug\Emgu.Util.xml
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csprojResolveAssemblyReference.cache
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam_Content.g.cs
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\JC\Downloads\Gown and Glove detection\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\opencv_core231.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\opencv_highgui231.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\opencv_imgproc231.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\ZedGraph.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\Emgu.CV.xml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\bin\Debug\Emgu.Util.xml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csprojResolveAssemblyReference.cache
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam_Content.g.cs
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
