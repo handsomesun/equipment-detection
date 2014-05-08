@@ -135,7 +135,7 @@ namespace KinectCam
             myKinect.Start();
 
             /* Writing data into a txt file */
-            String path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Data\\data.txt";
+            String path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Data\\data_PPEDS.txt";
             file = new System.IO.StreamWriter(path);
 
             file.WriteLine("=============================================================================");
@@ -298,7 +298,7 @@ namespace KinectCam
             {
                 //Q?
                 if ((trackingSkeleton == false) || (this.direction == Global.BACK_FACING_TO_CAMERA) ||
-                (this.movement == Global.LEAVING) || ( TimerTickCount >= 1 ))
+                (this.movement == Global.LEAVING) || decisionNotYetMade == false)
                     return;
 
                 if (colorFrame == null) return;
@@ -306,6 +306,7 @@ namespace KinectCam
                 byte[] colorData = new byte[colorFrame.PixelDataLength];
                 colorFrame.CopyPixelDataTo(colorData);
 
+                
                 if (decisionNotYetMade)
                 {
                     //Gloves detection
@@ -561,7 +562,7 @@ namespace KinectCam
                     decisionNotYetMade = false;
 
                     //Decide Gloves
-                    if ( blueCountRightMax > 50 && blueCountLeftMax > 50)
+                    if ( blueCountRightMax > 40 && blueCountLeftMax > 40)
                     {
                         wearingGloves = true;
                         detectString += "(GLOVES)";
@@ -651,6 +652,7 @@ namespace KinectCam
                     this.gloves.Content = glovesCount;
                     this.gown.Content = gownCount;
                     this.mask.Content = maskCount;
+                    
                     
                     file.WriteLine("PERSON " + this.all + ":");
                     file.WriteLine("MOVEMENT: " + this.movementUI.Content);

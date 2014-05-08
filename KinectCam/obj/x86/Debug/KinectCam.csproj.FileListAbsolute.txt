@@ -127,3 +127,25 @@ C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown 
 C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.g.resources
 C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
 C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\Gown and Glove detection\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam.exe
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam.pdb
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\opencv_core231.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\opencv_highgui231.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\opencv_imgproc231.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\KinectCam.exe
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\KinectCam.pdb
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\ZedGraph.dll
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\Emgu.CV.xml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\bin\Debug\Emgu.Util.xml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam.csprojResolveAssemblyReference.cache
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\MainWindow.baml
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\App.g.cs
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam_Content.g.cs
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam_MarkupCompile.cache
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam.g.resources
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam.Properties.Resources.resources
+C:\Users\JC\Desktop\Working On\Gown and Glove detection - Measuring Pixels - 02042014\PPEDS (Kinect v1)\KinectCam\obj\x86\Debug\KinectCam.csproj.GenerateResource.Cache
